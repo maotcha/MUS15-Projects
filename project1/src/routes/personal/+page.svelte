@@ -35,6 +35,18 @@
         color: palevioletred;
     }
 
+    .moreaboutme {
+        margin: 20px;
+        font-size: 25px;
+        color: rgb(251, 27, 184);
+    }
+
+    .lastone {
+        margin: 20px;
+        font-size: 25px;
+        color: rgb(117, 223, 255);
+    }
+
     .music{
         width: 100%;
         height: 380px;
@@ -76,5 +88,21 @@
    
     <div class="music">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/NmxFxBiCrL4?si=3CU0ne8uQcqwzVeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+
+    <div class="moreaboutme">
+        <p>Wasn't that sick!?!!? Ok, ok, ok, now check out this performance by Bring Me the Horizon. I promise it'll be the best thing you've heard all day!!!</p>
+    </div>
+
+    <div class="music">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/OGc9W-_C9u0?si=GWqlyioouyO6Jv-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+
+    <div class="lastone">
+        <p>Ok, this is the last one I promise. It's Coldplay! I love Coldplay! You love Coldplay! We all love Coldplay!</p>
+    </div>
+
+    <div class="music">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/kiqEEr7CK2g?si=bOz0bTjscl7zMQCn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
